@@ -1,18 +1,21 @@
 # Engineering 4 Notebook
 This is where all of Jasper and Jack's assignments will be! 
 ## calculator.py	
-####Lesson learned 
+#### Lesson learned 
 
-####Code 
+#### Code 
+
 ## lesson00.py
-####Lesson learned 
+#### Lesson learned 
 
-####Code 
+#### Code 
+
 ## quadraticsolver.py	
-####Lesson learned 
+#### Lesson learned 
 
-####Code 
+#### Code 
+
 ## stringsandloops.py
-####Lesson learned 
+#### Lesson learned 
 
-####Code 
+#### Code 
