@@ -1,2 +1,3 @@
 # Engineering 4 Notebook
-Roight hea is where all me stuff is going!  
+This is where all of Jasper and Jack's assignments will be! 
+## 
