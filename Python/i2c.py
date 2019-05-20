@@ -1,4 +1,4 @@
-import time
+   import time
 
 import Adafruit_SSD1306
 import Adafruit_LSM303
