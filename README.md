@@ -1,80 +1,96 @@
 # Engineering 4 Notebook
 This is where all of Jasper and Jack's assignments will be! 
-## Hello Raspberry Pi Zero
-#### Lesson Learned:
 
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/hello_world/app.py
+## Hello Raspberry Pi Zero 
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Hello Raspberry](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/hello_world/app.py) |
 
 ## Hello Mathmatica
-#### Lesson Learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Mathematica_Plot.nb
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Hello Mathmatica](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Mathematica_Plot.nb) |
 
 ## Hello Python
-#### Lesson Learned:
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Hello Python](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/lesson00.py) |
 
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/lesson00.py
- 
 ## Python Program 01 – Calculator
-#### Lesson learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/calculator.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Calculator](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/calculator.py) |
 
 ## Python Program 02 – Quadratic Solver
-#### Lesson learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/quadraticsolver.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Quadratic Solver](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/quadraticsolver.py) |
 
 ## Python Program 03 – Strings and Loops
-#### Lesson learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/stringsandloops.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Strings & Loops]( https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/stringsandloops.py) |
 
 ## Python Challenge – MSP
-#### Lesson Learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/hangman.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Hangman](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/hangman.py) |
 
 ## GPIO Pins – Bash
-#### Lesson Learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Scripts/bash_gpio.sh
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Bash GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Scripts/bash_gpio.sh) |
 
 ## GPIO Pins - Python
-#### Lesson Learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/gpiopins.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Python GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/gpiopins.py) |
 
 ## GPIO Pins - Flask
-#### Lesson Learned:
-
-###### First Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py
-###### Second Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/gpio/templates/index.html
+| Assignment |
+| ----- |
+| Lesson Learned:
+First Code: [App.py](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py)
+Second Code: [index](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/gpio/templates/index.html) |
 
 ## GPIO Pins - I2C
-#### Lesson Learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/i2c.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [I2C GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/i2c.py) |
 
 ## Headless
-#### Lesson Learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Headless.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Headless](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Headless.py) |
 
 ## Pi Camera
-#### Lesson Learned:
-
-###### First Test: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test01.py
-###### Second Test: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test02.py
-###### Third Test: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test03.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+First Test: [Test01](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test01.py)
+Second Test: [Test02](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test02.py) 
+Third Test: [Test03](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test03.py) |
 
 ## Hack Your Stuff
-#### Lesson Learned:
-
-#### Code: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Beeper.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+Code: [Alarm](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Beeper.py) |
 
 ## Copypasta
-#### Lesson Learned:
-
-###### First Assignment: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/parent-detector.py
-###### Second Assignment: https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/stopanimation.py
+| Assignment |
+| ----- |
+| Lesson Learned:
+Part One: [Security Cam](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/parent-detector.py) 
+Part Two: [Stop Motion](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/stopanimation.py) |
