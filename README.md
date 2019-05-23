@@ -1,10 +1,10 @@
 # Engineering 4 Notebook
-This is where all of Jasper and Jack's assignments will be! 
+All of Jasper and Jack's Engineering 4 assignments! 
 
 ## Hello Raspberry Pi Zero 
-| Assignment |
+| Assignment  |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: 
 Code: [Hello Raspberry](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/hello_world/app.py) |
 
 ## Hello Mathmatica
