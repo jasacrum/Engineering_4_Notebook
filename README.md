@@ -78,7 +78,7 @@ Code: [Python GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/mast
 | ----- |
 | Lesson Learned:
 First Code: [App.py](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py)
-Second Code: [index](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/gpio/templates/index.html) |
+Second Code: [Index](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/gpio/templates/index.html) |
 
 &nbsp;
 &nbsp;
@@ -102,9 +102,9 @@ Code: [Headless](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/
 | Assignment |
 | ----- |
 | Lesson Learned:
-First Test: [Test01](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test01.py)
-Second Test: [Test02](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test02.py) 
-Third Test: [Test03](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test03.py) |
+First Test Code: [Test01](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test01.py)
+Second Test Code: [Test02](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test02.py) 
+Third Test Code: [Test03](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test03.py) |
 
 &nbsp;
 &nbsp;
@@ -120,5 +120,5 @@ Code: [Alarm](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Pyt
 | Assignment |
 | ----- |
 | Lesson Learned:
-Part One: [Security Cam](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/parent-detector.py) 
-Part Two: [Stop Motion](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/stopanimation.py) |
+Part One Code: [Security Cam](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/parent-detector.py) 
+Part Two Code: [Stop Motion](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/stopanimation.py) |
