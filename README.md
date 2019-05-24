@@ -4,7 +4,7 @@
 ## Hello Raspberry Pi Zero 
 | Assignment  |
 | ----- |
-| Lesson Learned: 
+| Lesson Learned: During this assignment we learned the basics of using and setting up a Raspberry Pi Zero. We were also introduced to using some simple terminal commands to navigate and create folders and files.
 Code: [Hello Raspberry](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/hello_world/app.py) |
 
 &nbsp;
@@ -12,7 +12,7 @@ Code: [Hello Raspberry](https://github.com/jasacrum/Engineering_4_Notebook/blob/
 ## Hello Mathmatica
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: This assignment taught us how to use Mathmatica to calculate and graph equations. Along with this we learned how to make lists, which are one of the most powerful things you can do in Mathmatica.
 Code: [Hello Mathmatica](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Mathematica_Plot.nb) |
 
 &nbsp;
@@ -20,7 +20,7 @@ Code: [Hello Mathmatica](https://github.com/jasacrum/Engineering_4_Notebook/blob
 ## Hello Python
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: This assignment taught us the basics of using the programming language, Python that comes installed on the Raspberry Pi Zero. 
 Code: [Hello Python](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/lesson00.py) |
 
 &nbsp;
@@ -28,7 +28,7 @@ Code: [Hello Python](https://github.com/jasacrum/Engineering_4_Notebook/blob/mas
 ## Python Program 01 – Calculator
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: In this assignment, we learned how to use Python to calculate equations.
 Code: [Calculator](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/calculator.py) |
 
 &nbsp;
@@ -36,7 +36,7 @@ Code: [Calculator](https://github.com/jasacrum/Engineering_4_Notebook/blob/maste
 ## Python Program 02 – Quadratic Solver
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: We learned how to make our Pi solve more complex equations as we had it solve the quadratic equation with changing variables.
 Code: [Quadratic Solver](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/quadraticsolver.py) |
 
 &nbsp;
@@ -44,7 +44,7 @@ Code: [Quadratic Solver](https://github.com/jasacrum/Engineering_4_Notebook/blob
 ## Python Program 03 – Strings and Loops
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: This assignment taught us how to split sentences using the split function in Python. We also were introduced to the process of committing and pushing our work to Github.
 Code: [Strings & Loops]( https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/stringsandloops.py) |
 
 &nbsp;
@@ -52,7 +52,7 @@ Code: [Strings & Loops]( https://github.com/jasacrum/Engineering_4_Notebook/blob
 ## Python Challenge – MSP
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: During this assignment we learned how important it is to take the time to test the code in chunks. This allowed us to find errors easier and fix them in order to move on the next part.
 Code: [Hangman](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/hangman.py) |
 
 &nbsp;
@@ -60,7 +60,7 @@ Code: [Hangman](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/P
 ## GPIO Pins – Bash
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: During this assignment we learned how to write a bash script for the Raspberry Pi. We took what we used to do on arduinos and used it for the Raspberry Pi.
 Code: [Bash GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Scripts/bash_gpio.sh) |
 
 &nbsp;
@@ -68,7 +68,7 @@ Code: [Bash GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/master
 ## GPIO Pins - Python
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: In this assignment we learned how to combine our bash experience and python experience to make LED's blink.
 Code: [Python GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/gpiopins.py) |
 
 &nbsp;
@@ -76,7 +76,7 @@ Code: [Python GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/mast
 ## GPIO Pins - Flask
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: This assignment taught us about the internet abilities the Pi possesses. We learned how to connect to the Pi from another device and control the LED's.
 First Code: [App.py](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py)
 Second Code: [Index](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/gpio/templates/index.html) |
 
@@ -85,7 +85,7 @@ Second Code: [Index](https://github.com/jasacrum/Engineering_4_Notebook/blob/mas
 ## GPIO Pins - I2C
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: In this assignment we learned how to take what we learned from the last assignment and create an actual web server that can be accessed from any device with internet access. From this server we were able to control the LED's with buttons.
 Code: [I2C GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/i2c.py) |
 
 &nbsp;
