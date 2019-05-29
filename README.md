@@ -28,7 +28,13 @@ Code: [Hello Python](https://github.com/jasacrum/Engineering_4_Notebook/blob/mas
 ## Python Program 01 – Calculator
 | Assignment |
 | ----- |
-| Lesson Learned: In this assignment, we learned how to use Python to calculate equations.
+| Lesson Learned: In this assignment, we learned how to use Python to calculate equations. Use these four lines 
+print("Sum:\t\t" + doMath(a,b))
+print("Difference:\t" + doMath(a,b,2))
+print("Product:\t" + doMath(a,b,3))
+print("Quotient:\t" + doMath(a,b,4))
+print("Modulo:\t\t" + doMath(a,b,5))
+at the end of your code to help.
 Code: [Calculator](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/calculator.py) |
 
 &nbsp;
@@ -36,7 +42,7 @@ Code: [Calculator](https://github.com/jasacrum/Engineering_4_Notebook/blob/maste
 ## Python Program 02 – Quadratic Solver
 | Assignment |
 | ----- |
-| Lesson Learned: We learned how to make our Pi solve more complex equations as we had it solve the quadratic equation with changing variables.
+| Lesson Learned: We learned how to make our Pi solve more complex equations as we had it solve the quadratic equation with changing variables. Just ask your teacher about arrays.
 Code: [Quadratic Solver](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/quadraticsolver.py) |
 
 &nbsp;
