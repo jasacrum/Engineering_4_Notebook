@@ -4,7 +4,7 @@
 ## Hello Raspberry Pi Zero 
 | Assignment  |
 | ----- |
-| Lesson Learned: During this assignment we learned the basics of using and setting up a Raspberry Pi Zero. We were also introduced to using some simple terminal commands to navigate and create folders and files.
+| Lesson Learned: During this assignment we learned the basics of using and setting up a Raspberry Pi Zero. We were also introduced to using some simple terminal commands to navigate and create folders and files. Use arrow keys for shortcuts.
 Code: [Hello Raspberry](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Flask/hello_world/app.py) |
 
 &nbsp;
@@ -12,7 +12,7 @@ Code: [Hello Raspberry](https://github.com/jasacrum/Engineering_4_Notebook/blob/
 ## Hello Mathmatica
 | Assignment |
 | ----- |
-| Lesson Learned: This assignment taught us how to use Mathmatica to calculate and graph equations. Along with this we learned how to make lists, which are one of the most powerful things you can do in Mathmatica.
+| Lesson Learned: This assignment taught us how to use Mathmatica to calculate and graph equations. Along with this we learned how to make lists, which are one of the most powerful things you can do in Mathmatica. 
 Code: [Hello Mathmatica](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Mathematica_Plot.nb) |
 
 &nbsp;
@@ -20,7 +20,7 @@ Code: [Hello Mathmatica](https://github.com/jasacrum/Engineering_4_Notebook/blob
 ## Hello Python
 | Assignment |
 | ----- |
-| Lesson Learned: This assignment taught us the basics of using the programming language, Python that comes installed on the Raspberry Pi Zero. 
+| Lesson Learned: This assignment taught us the basics of using the programming language, Python that comes installed on the Raspberry Pi Zero. Always push your python assignments to github.
 Code: [Hello Python](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/lesson00.py) |
 
 &nbsp;
