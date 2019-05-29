@@ -93,7 +93,7 @@ Code: [I2C GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/
 ## Headless
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: This assigment we had to run our program without a monitor, keyboard, or mouse, so we had to have the code run on startup. We got a little caught up trying different codes to make it run on startup but after trial and error, we were able to figure it out. 
 Code: [Headless](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Headless.py) |
 
 &nbsp;
@@ -101,7 +101,7 @@ Code: [Headless](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/
 ## Pi Camera
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: For the assignment we had to work with a little camera that wires up to the pi. We learned about making the camera window smaller because when it was full screen we were unable to exit out of the window.
 First Test Code: [Test01](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test01.py)
 Second Test Code: [Test02](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test02.py) 
 Third Test Code: [Test03](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/camera_test03.py) |
@@ -111,7 +111,7 @@ Third Test Code: [Test03](https://github.com/jasacrum/Engineering_4_Notebook/blo
 ## Hack Your Stuff
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: During this assignment we learned about using alarms. We had to figure out how to activate it with a button instead of a switch.
 Code: [Alarm](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Beeper.py) |
 
 &nbsp;
@@ -119,6 +119,6 @@ Code: [Alarm](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Pyt
 ## Copypasta
 | Assignment |
 | ----- |
-| Lesson Learned:
+| Lesson Learned: For this assignment we had to learn how to use a parent detector to take pictures on the camera, and then also make a stop motion with images captured on the pi camera. We had to make the camera take each picture for the stop motion animation whenever a button was pressed.
 Part One Code: [Security Cam](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/parent-detector.py) 
 Part Two Code: [Stop Motion](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/stopanimation.py) |
