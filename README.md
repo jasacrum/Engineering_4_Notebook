@@ -93,7 +93,7 @@ Code: [I2C GPIO](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/
 ## Headless
 | Assignment |
 | ----- |
-| Lesson Learned: This assigment we had to run our program without a monitor, keyboard, or mouse, so we had to have the code run on startup. We got a little caught up trying different codes to make it run on startup but after trial and error, we were able to figure it out. Use this weabsite [Run On Startup](https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/)
+| Lesson Learned: This assigment we had to run our program without a monitor, keyboard, or mouse, so we had to have the code run on startup. We got a little caught up trying different codes to make it run on startup but after trial and error, we were able to figure it out. Use Bashrc on this weabsite [Run On Startup](https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/)
 Code: [Headless](https://github.com/jasacrum/Engineering_4_Notebook/blob/master/Python/Headless.py) |
 
 &nbsp;
